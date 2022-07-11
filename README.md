@@ -6,4 +6,4 @@ Designed a GUI based game using OOPs concepts and Multithreading in Java along w
 
 Soon adding Demo Video Link
 
-### Developed by Bhagesh & Rishabh
+### Developed by Bhagesh Gaur & Rishabh Oberoi
